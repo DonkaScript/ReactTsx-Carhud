@@ -1,0 +1,233 @@
+
+.clip-path {
+  clip-path: inset(0 0 10% 0);
+}
+
+@media screen and (max-height: 1600px) {
+
+  .bg-img {
+    width: 2560px;
+    height: 1600px;
+  }
+
+  .dashboard {
+    width: 20%;
+    height: 11.5%;
+    bottom: 2%;
+    transform: scale(1.4);
+  }
+
+  .engine {
+    right: 10.3%;
+    top: 75%;
+  }
+
+  .fuel {
+    left: 9.5%;
+    top: 75%;
+  }
+
+}
+
+@media screen and (max-height: 1440px) {
+
+  .bg-img {
+    width: 2560px;
+    height: 1440px;
+  }
+
+  .dashboard {
+    width: 20%;
+    height: 13%;
+    bottom: 1%;
+    transform: scale(1.2);
+  }
+
+  .engine {
+    right: 10.3%;
+    top: 75%;
+  }
+
+  .fuel {
+    left: 9.5%;
+    top: 75%;
+  }
+
+}
+
+@media screen and (max-height: 1200px) {
+
+  .bg-img {
+    width: 1920px;
+    height: 1200px;
+  }
+
+  .dashboard {
+    width: 25%;
+    height: 15%;
+    bottom: 0%;
+  }
+
+  .engine {
+    right: 11%;
+    top: 75%;
+  }
+
+  .fuel {
+    left: 10.5%;
+    top: 75%;
+  }
+
+}
+
+@media screen and (max-height: 1080px) {
+
+  .bg-img {
+    width: 1920px;
+    height: 1080px;
+  }
+
+  .dashboard {
+    width: 25%;
+    height: 17%;
+    bottom: 0%;
+  }
+
+  .engine {
+    right: 11%;
+    top: 75%;
+  }
+
+  .fuel {
+    left: 10.5%;
+    top: 75%;
+  }
+
+}
+
+@media screen and (max-height: 1050px) {
+
+  .bg-img {
+    width: 1680px;
+    height: 1050px;
+  }
+
+  .dashboard {
+    width: 30%;
+    height: 17%;
+    bottom: 0%;
+  }
+
+  .engine {
+    right: 11%;
+    top: 75%;
+  }
+
+  .fuel {
+    left: 10.5%;
+    top: 75%;
+  }
+
+}
+
+@media screen and (max-height: 900px) {
+
+  .bg-img {
+    width: 1600px;
+    height: 900px;
+  }
+
+  .dashboard {
+    width: 30%;
+    height: 21%;
+    bottom: -2.5%;
+    transform: scale(0.8);
+  }
+  
+  .engine {
+    right: 11%;
+    top: 75%;
+  }
+
+  .fuel {
+    left: 10.5%;
+    top: 75%;
+  }
+
+}
+
+@media screen and (max-height: 800px) {
+
+  .bg-img {
+    width: 1280px;
+    height: 800px;
+  }
+
+  .dashboard {
+    width: 40%;
+    height: 22%;
+    bottom: -5%;
+    transform: scale(0.6);
+  }
+
+  .engine {
+    right: 10.1%;
+    top: 75%;
+  }
+
+  .fuel {
+    left: 9.7%;
+    top: 75%;
+  }
+
+}
+
+@media screen and (max-height: 768px) {
+
+  .bg-img {
+    width: 1024px;
+    height: 768px;
+  }
+
+  .dashboard {
+    width: 50%;
+    height: 25%;
+    bottom: -5%;
+  }
+
+  .engine {
+    right: 10.2%;
+    top: 76.5%;
+  }
+
+  .fuel {
+    left: 9.7%;
+    top: 76.5%;
+  }
+
+}
+
+@media screen and (max-height: 600px) {
+  .bg-img {
+    width: 800px;
+    height: 600px;
+  }
+
+  .dashboard {
+    width: 60%;
+    height: 30%;
+    bottom: -8%;
+    transform: scale(0.5);
+  }
+
+  .engine {
+    right: 10.9%;
+    top: 75%;
+  }
+
+  .fuel {
+    left: 10.4%;
+    top: 75%;
+  }
+
+}
